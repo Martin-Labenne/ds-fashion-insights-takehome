@@ -1,2 +1,4 @@
 snowflake-connector-python[pandas]
 python-dotenv
+ipykernel
+matplotlib
