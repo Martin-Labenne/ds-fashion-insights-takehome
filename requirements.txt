@@ -2,3 +2,7 @@ snowflake-connector-python[pandas]
 python-dotenv
 ipykernel
 matplotlib
+scikit-learn
+seaborn
+numpy==2.1
+umap-learn
